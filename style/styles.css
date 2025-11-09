@@ -9,3 +9,18 @@ body {
   background-color: aqua;
   font-style: oblique;
 }
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
